@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm sidra batool<br>Full Stack Developer |React . Node.js . Mongodb<br>Building Ai-powered web Applications<br>Learning Something new everydat
+Hi, I'm sidra batool<br>Full Stack Developer |React . Node.js . MongoDB<br>Building Ai-powered web Applications<br>Learning Something new everyday
 
 
 ## 🌐 Socials:
